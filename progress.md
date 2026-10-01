@@ -1,7 +1,5 @@
-# Weekly Progress Log
+# Daily Progress Log
 
-| Week | Problems Solved | Weakest Topic | Repo committed daily? |
-|---|---|---|---|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
+| Date | Problem | Pattern | Solved alone? | Key learning |
+|---|---|---|---|---|
+| 2026-10-01 | 167. Two Sum II | Two Pointers (opposite ends) | <yes / with hints> | Each pointer move drops an element that can't be in the answer |
