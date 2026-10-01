@@ -7,8 +7,8 @@ Every solution includes the approach, time/space complexity, and the pattern it 
 
 | Topic | Status | Problems Solved |
 |---|---|---|
-| Arrays | 🟡 In Progress | 0 |
-| Two Pointer | 🟡 In Progress | 0 |
+| Arrays | 🟡 In Progress | 5 |
+| Two Pointer | 🟡 In Progress | 2 |
 | Sliding Window | ⚪ Not Started | 0 |
 | Hashing | ⚪ Not Started | 0 |
 | Strings | ⚪ Not Started | 0 |
@@ -32,6 +32,7 @@ Each topic folder contains one subfolder per pattern. Every solved problem has:
 ```
 dsa-journey/
 ├── arrays/
+│   ├── basics/
 │   ├── two-pointer/
 │   └── sliding-window/
 ├── strings/
